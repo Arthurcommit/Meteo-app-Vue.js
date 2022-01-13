@@ -1,6 +1,4 @@
-<!-- Creation of a Meteo App using an API
-Using bootstrap class
-Using the API website https://openweathermap.org/ -->
+<!-- Creation of a Weather App using bootstrap classes and the API website https://openweathermap.org/ -->
 <template>
 
     <div class="container">
